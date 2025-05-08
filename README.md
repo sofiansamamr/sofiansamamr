@@ -38,7 +38,7 @@ Senior Software Engineer • .NET & Angular enthusiast • Builder of digital 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sofiansamamr&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=sofiansamamr&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?username=sofiansamamr&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -51,8 +51,8 @@ Senior Software Engineer • .NET & Angular enthusiast • Builder of digital 
 ---
 
 ## 🤝 Let’s Connect
-I love chatting about distributed systems, clean code in Arabic & English‑speaking teams, and building brands that blend tech & lifestyle. Feel free to open an issue, drop a PR, or just say “مرحباً” on social.
+I love chatting about distributed systems, clean code in Arabic & English‑speaking teams, and building brands that blend tech & lifestyle. Feel free to open an issue, drop a PR, or just say “Hey” on social.
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sofiansamamr" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?username=sofiansamamr" alt="visitor badge"/>
 </p>
