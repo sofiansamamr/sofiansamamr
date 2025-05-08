@@ -1,13 +1,14 @@
 <!-- banner / hero -->
 <p align="center">
-  <img src="https://github‑profile‑banner.vercel.app/api?username=<YOUR‑USERNAME>&type=wave" width="100%" alt="GitHub banner" />
+  <img src="https://github‑profile‑banner.vercel.app/api?username=<sofiansamamr>&type=wave" width="100%" alt="GitHub banner" />
+  Sofian Sammar
 </p>
 
 <h1 align="center">Hi&nbsp;there&nbsp;👋&nbsp;I’m <YOUR&nbsp;NAME></h1>
 
 <p align="center">
 Senior Software Engineer • .NET & Angular enthusiast • Builder of digital products & enterprise solutions <br/>
-<a href="mailto:<YOUR‑EMAIL>">Email</a>&nbsp;•&nbsp;
+<a href="mailto:<sofian.sammar@outlook.com>">Email</a>&nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/sofian-s-a9181b19a">LinkedIn</a>&nbsp;•&nbsp;
 
 </p>
