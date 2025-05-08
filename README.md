@@ -1,8 +1,5 @@
 <!-- banner / hero -->
-<p align="center">
-  <img src="https://github‑profile‑banner.vercel.app/api?username=<sofiansamamr>&type=wave" width="100%" alt="GitHub banner" />
-  Sofian Sammar
-</p>
+
 
 <h1 align="center">Hi&nbsp;there&nbsp;👋&nbsp;I’m <YOUR&nbsp;NAME></h1>
 
